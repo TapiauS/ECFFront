@@ -12,4 +12,5 @@ body{
 
 .alert{
     color: red;
+    display: none;
 }
