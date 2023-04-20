@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+#selectalert{
+    display: none;
+}
+
+#timealert{
+    display: none;
+}
+
+.alert{
+    color: red;
+}

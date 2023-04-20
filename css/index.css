@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+
+#presentext{
+    padding-top: 5em;
+    padding-bottom: 5em;
+    color: wheat;
+}
+
+#topbanner{
+    background-image:url("../images/pictures/headerbackground.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#presentation{
+    color:brown;
+}
+
+#carterigth{
+    border-right: 1px solid black;
+}
